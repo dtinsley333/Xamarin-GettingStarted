@@ -15,9 +15,11 @@
 
 [Xamarin](https://blog.xamarin.com/)
 
-[Ignite Australia-2017](https://channel9.msdn.com/Events/Ignite/Australia-2017/NET326)
+[IgniteA Australia-2017](https://channel9.msdn.com/Events/Ignite/Australia-2017/NET326)
 
 [Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)
+
+[Arizona Xamarin Developer Group](http://www.azdevelop.net/azdevelop/)
 
 ##Helpful Repositories
 
@@ -26,3 +28,10 @@
 [Dev Day Speakers Xamarin App](https://github.com/dtinsley333/Xamarin-DevDaysSpeakersDemo)
 
 [Current Weather Xamarin App](https://github.com/dtinsley333/XamarinWeatherApp)
+
+##Tools
+[Wireframe Sketcher](http://wireframesketcher.com)
+
+[Icon Generator](http://icon.angrymarmot.org/index.html)
+
+[Mac in Cloud](http://www.macincloud.com/)
