@@ -15,7 +15,7 @@
 
 [Xamarin](https://blog.xamarin.com/)
 
-[IgniteA Australia-2017](https://channel9.msdn.com/Events/Ignite/Australia-2017/NET326)
+[Ignite Australia-2017](https://channel9.msdn.com/Events/Ignite/Australia-2017/NET326)
 
 [Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)
 
