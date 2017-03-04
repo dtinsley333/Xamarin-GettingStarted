@@ -21,3 +21,8 @@
 
 ##Helpful Repositories
 
+[Xamarin Dev Days Labs](https://github.com/xamarin/dev-days-labs)
+
+[Dev Day Speakers Xamarin App](https://github.com/dtinsley333/Xamarin-DevDaysSpeakersDemo)
+
+[Current Weather Xamarin App](https://github.com/dtinsley333/XamarinWeatherApp)
