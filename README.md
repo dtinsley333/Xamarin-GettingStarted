@@ -20,6 +20,7 @@
 [Xamarin Show](https://channel9.msdn.com/Shows/XamarinShow)
 
 [Arizona Xamarin Developer Group](http://www.azdevelop.net/azdevelop/)
+
 [Top 5 Mobile Development Platforms for 2017](https://dzone.com/articles/top-5-cross-platform-mobile-app-development-tools-1?fromrel=true)
 
 ##Helpful Repositories
