@@ -1,12 +1,12 @@
 # Xamarin-Getting Started
 
-##Brief Xamarin Overview and Tips for Getting Started 
+## Brief Xamarin Overview and Tips for Getting Started 
 
-##This guide is most suitable for current .NET developers interested in learning mobile development with Xamarin. Topics include brief overview, Xamarin University, Xamarin Certification, useful code repositories and presentations. 
+## This guide is most suitable for current .NET developers interested in learning mobile development with Xamarin. Topics include brief overview, Xamarin University, Xamarin Certification, useful code repositories and presentations. 
 
 [Nashville .NET-Xamarin-GettingStarted Slide Deck](https://docs.google.com/presentation/d/1iz26tSjvx5pR6Jg5pVy3ItZ39gYVELDR6WL0KDpVqBk/edit?usp=sharing)
 
-##Helpful Links
+## Helpful Links
 [Xamarin University](https://www.xamarin.com/university)
 
 [Xamarin Dev Days](https://www.xamarin.com/dev-days)
