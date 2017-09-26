@@ -6,8 +6,7 @@
 
 [Nashville .NET-Xamarin-GettingStarted Slide Deck](https://docs.google.com/presentation/d/1iz26tSjvx5pR6Jg5pVy3ItZ39gYVELDR6WL0KDpVqBk/edit?usp=sharing)
 
-[Recorded Presentation at the .NET Users Group, March 2017]
-(https://www.youtube.com/watch?v=TOPVkyaE-GY&t=25s)
+[Recorded Presentation at the .NET Users Group, March 2017](https://www.youtube.com/watch?v=TOPVkyaE-GY&t=25s)
 
 ## Helpful Links
 [Xamarin University](https://www.xamarin.com/university)
