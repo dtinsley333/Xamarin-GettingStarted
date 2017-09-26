@@ -5,6 +5,8 @@
 ## This guide is most suitable for current .NET developers interested in learning mobile development with Xamarin. Topics include brief overview, Xamarin University, Xamarin Certification, useful code repositories and presentations. 
 
 [Nashville .NET-Xamarin-GettingStarted Slide Deck](https://docs.google.com/presentation/d/1iz26tSjvx5pR6Jg5pVy3ItZ39gYVELDR6WL0KDpVqBk/edit?usp=sharing)
+[Recorded Presentation at the .NET Users Group, March 2017]
+(https://www.youtube.com/watch?v=TOPVkyaE-GY&t=25s)
 
 ## Helpful Links
 [Xamarin University](https://www.xamarin.com/university)
